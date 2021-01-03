@@ -1,0 +1,2 @@
+# SUDOKU_SOLVER
+PROJECT DESCRIPTION: This project is an application of image processing. In this project we are solving a sudoku puzzle by capturing the real-world image of sudoku. We have used OpenCV with python to extract the correct digits from the puzzle image input. On recognising the input digits, we solve the sudoku internally and we display the solved solution for the respected puzzle image.
