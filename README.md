@@ -30,8 +30,13 @@ TOOLS AND TECHNOLOGY USED:
 
 
 REFERENCES:
+
 Image Processing:
+
 •	https://www.mathworks.com
+
 Sudoku Solver:
+
 •	https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
+
 •	https://ieeexplore.ieee.org/document/6845190/authors#authors
