@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972693057768",
+    "firebase_url": "https://sudokucops.firebaseio.com",
+    "project_id": "sudokucops",
+    "storage_bucket": "sudokucops.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972693057768:android:9a30f65edaf2e55c91d95d",
+        "android_client_info": {
+          "package_name": "com.example.sudokucops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972693057768-8s4bftt7ojhpnlmo3gj8585gj01fs7n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_VjpayeddcAJk5_tThj2lxKra8NDqjAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972693057768-8s4bftt7ojhpnlmo3gj8585gj01fs7n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
