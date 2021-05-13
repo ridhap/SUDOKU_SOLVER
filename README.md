@@ -11,6 +11,7 @@ PROJECT DESCRIPTION: This project is an application of image processing. In this
 
 
 WORKING OF THE APPLICATION:
+
 •	Download the app SudokuCops.apk
 
 •	You have a 9X9 grid on the display. Either you can enter the numbers manually or capture the real-world sudoku image and upload it or u can upload directly from the gallery.
